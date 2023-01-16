@@ -4,18 +4,18 @@ table {
     font-family: Tahoma, Geneva, sans-serif;
 }
 table td  th{
-	padding: 15px;
+	padding: 40px;
 }
 table thead td  th{
 	background-color: #54585d;
 	color: #f8ffff;
 	font-weight: bold;
-	font-size: 13px;
-	border: 1px solid #54585d;
+	font-size: 20px;
+	border: 10px solid #54585d;
 }
 table tbody td th{
 	color: #636363;
-	border: 1px solid #dddfe1;
+	border: 10px solid #dddfe1;
 }
 table tbody tr  {
 	background-color: #f9fafb;
